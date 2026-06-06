@@ -1,8 +1,0 @@
-# 1. Ignora absolutamente tudo por padrão
-*
-!*/
-!*.cpp
-!*.h
-!*.md
-!*.txt
-!.gitignore
