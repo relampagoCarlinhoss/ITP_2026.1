@@ -1,0 +1,5 @@
+#ignorar todos os executáveis:
+!*.cpp
+!*.h
+!*.txt
+!*.md
