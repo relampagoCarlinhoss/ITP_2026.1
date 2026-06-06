@@ -1,5 +1,8 @@
-#ignorar todos os executáveis:
+# 1. Ignora absolutamente tudo por padrão
+*
+!*/
 !*.cpp
 !*.h
-!*.txt
 !*.md
+!*.txt
+!.gitignore
