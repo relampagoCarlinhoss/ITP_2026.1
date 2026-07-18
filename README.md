@@ -19,16 +19,14 @@ O objetivo principal é consolidar os fundamentos de lógica de programação, e
 O projeto está dividido de acordo com as unidades letivas da universidade:
 
 * **`unidade1/`**: Contém os primeiros códigos e laboratórios práticos com foco em lógica condicional, estruturas de repetição (`while`, `for`) e funções básicas.
-* **`unidade2/conteudo/`**: Dedicado a conceitos mais estruturados e avançados da linguagem, incluindo:
+* **`unidade2`**: Dedicado a conceitos mais estruturados e avançados da linguagem, incluindo:
   * Vetores e Matrizes (Arrays multidimensionais)
   * Passagem de parâmetros por referência e ponteiros
   * Alocação dinâmica de memória
   * Manipulação de strings e structs
-* **`unidade3/`**: *(Espaço reservado para os tópicos finais da disciplina e projeto final).*
+* **`unidade3/`**: https://github.com/relampagoCarlinhoss/Gerador_de_Mapa.git
 
----
-
-## 🚀 Como Compilar e Executar
+* ## 🚀 Como Compilar e Executar
 
 Para rodar qualquer um dos códigos deste repositório no Linux, utilize o terminal para navegar até a pasta do arquivo `.cpp` e execute os comandos abaixo:
 
