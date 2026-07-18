@@ -18,13 +18,13 @@ O objetivo principal é consolidar os fundamentos de lógica de programação, e
 
 O projeto está dividido de acordo com as unidades letivas da universidade:
 
-* **`unidade1/`**: Contém os primeiros códigos e laboratórios práticos com foco em lógica condicional, estruturas de repetição (`while`, `for`) e funções básicas.
+* **`unidade1`**: Contém os primeiros códigos e laboratórios práticos com foco em lógica condicional, estruturas de repetição (`while`, `for`) e funções básicas.
 * **`unidade2`**: Dedicado a conceitos mais estruturados e avançados da linguagem, incluindo:
   * Vetores e Matrizes (Arrays multidimensionais)
   * Passagem de parâmetros por referência e ponteiros
   * Alocação dinâmica de memória
   * Manipulação de strings e structs
-* **`unidade3/`**: https://github.com/relampagoCarlinhoss/Gerador_de_Mapa.git
+* **`unidade3`**: https://github.com/relampagoCarlinhoss/Gerador_de_Mapa.git
 
 * ## 🚀 Como Compilar e Executar
 
